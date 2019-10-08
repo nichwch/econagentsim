@@ -12,9 +12,9 @@ Each step represents a day in real-time
 During each step, information is propagated and choices are made by agents and firms  
 
 # Agents
-*All agents are adults  
-*All agents participate in the labor force  
-*Agents make decisions based on their own information  
+* All agents are adults  
+* All agents participate in the labor force  
+* Agents make decisions based on their own information  
     Information is sourced from:  
         Public Information  
         Relationships with other Agents  
