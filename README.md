@@ -1,11 +1,11 @@
 
 # Model Assumptions:
 
-Long term goal is to make as few variables exogenous as possible
-Derive EVERYTHING from individual behavior
+Long term goal is to make as few variables exogenous as possible\n
+Derive EVERYTHING from individual behavior\n
 
-What is exogenous(for now)
-All initial variables (prices, information, agent parameters, firm parameters, etc. etc.)
+What is exogenous(for now)\n
+All initial variables (prices, information, agent parameters, firm parameters, etc. etc.)\n
 
 Model proceeds on a step by step basis
 Each step represents a day in real-time
