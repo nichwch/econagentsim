@@ -15,9 +15,9 @@ During each step, information is propagated and choices are made by agents and f
 * All agents are adults  
 * All agents participate in the labor force  
 * Agents make decisions based on their own information  
-    Information is sourced from:  
-        Public Information  
-        Relationships with other Agents  
+    * Information is sourced from:  
+        * Public Information  
+        * Relationships with other Agents  
     Agent parameters will decide how they weigh this information  
     Depending on the parameters, they may weight public information more,  
       or the information of their peers. They may even ignore information unless  
