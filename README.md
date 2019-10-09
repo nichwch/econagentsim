@@ -5,7 +5,7 @@ Long term goal is to make as few variables exogenous as possible
 Derive EVERYTHING from individual behavior  
 
 What is exogenous(for now)  
-All initial variables (prices, information, agent parameters, firm parameters, etc. etc.)  
+All initial variables (prices, information, categories of goods, agent parameters, firm parameters, etc. etc.)  
 
 Model proceeds on a step by step basis  
 Each step represents a day in real-time  
@@ -32,3 +32,11 @@ During each step, information is propagated and choices are made by agents and f
     * This is available to both agents and producers  
     * Public information always has a source  
         * This source is either a firm or an Agent  
+* Categories of firms specified by user (exogenous)
+    * ALL firms must produce goods in these categories
+    * Each agent has set preferences for these Categories
+* Regardless of category, each type of good has two types of value
+    * "Exchange Value" (hi Marx)
+        * Subject to market forces (of course, constrained by imperfect information)
+    * "Sign Value" (hi Derrida)
+        * Not subject to market forces, but rather informational ones
